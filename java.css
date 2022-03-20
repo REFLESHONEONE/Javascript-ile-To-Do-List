@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.title {
+  text-align: center;
+  padding: 23px;
+  background-color: orange;
+}
+.top {
+  color: orange;
+  border: 3px solid white;
+  background-color: white;
+  border-radius: 7px;
+  text-align: center;
+  width: 241px;
+  position: relative;
+  text-transform: uppercase;
+  right: -823px;
+  font-size: 31px;
+  padding: 11px;
+  font-weight: bold;
+  margin-top: 22px;
+}
+.pan {
+  color: white;
+  text-transform: capitalize;
+}
+.BTN {
+  background-color: black;
+  color: white;
+  padding: 3px;
+  border: none;
+}
+ul,
+li {
+  list-style: none;
+  text-align: center;
+}
+ul li {
+  text-transform: uppercase;
+  padding: 12px;
+  margin-top: 0;
+  margin-bottom: 2px;
+}
+li:nth-child(even) {
+  background-color: teal;
+}
+ul li a {
+  color: white;
+  text-decoration: none;
+  margin-top: 0;
+}
+.ul-ul {
+  margin-left: -32px;
+}
+.in-pt {
+  margin-top: 10px;
+}

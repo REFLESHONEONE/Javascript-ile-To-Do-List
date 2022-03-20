@@ -1,2 +1,1 @@
-# Javascript-ile-To-Do-List
-Javascript ile To Do List
+TO DO TASARIMI İLE JS....
